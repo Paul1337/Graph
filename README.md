@@ -27,7 +27,7 @@ circle(x, y, r = 20, clear = false, noBorders = false)
 clearCircle(x, y, r = 20)
 
 Draw an ellipse
-ellipse(x, y, w, h, clear = false, noBorders = false)
+ellipse(x, y, w, h, clear = false, noBorders = false) 
 clearEllipse(x, y, w, h)
 rotatedEllipse(x, y, w, h, angle, inWhat = 'deg')
 
