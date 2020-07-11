@@ -91,6 +91,6 @@ strokeRGB(r, g, b, a)
 Extra:
 setLineWidth(width)
 resize(width, height) - change the canvas size 
-
+ 
 Destroy the canvas:
 destroy() 
